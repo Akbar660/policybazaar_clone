@@ -13,6 +13,7 @@ Vaibhav Manral
 Kajal Kumari
 Vijay Rajput
 Rishav Chauhan
+
 Shaik Akbar Basha - Handle the whole backend part of website built login and sign-up page and helped in merging the site.
 
 Vaibhav Manral - Build a product page (health Insurance page) of the website, and maintain the database.
