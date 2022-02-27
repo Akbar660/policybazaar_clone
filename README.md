@@ -22,5 +22,3 @@ Kajal Kumari- Worked on the checkout page and other frontend components
 Vijay Rajput - Designed the whole Homepage including navbar and footer.
 
 Rishav Chauhan- Worked on payment and build a product page (Term Insurance page) of the website, and maintain the database
-
-
