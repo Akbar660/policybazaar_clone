@@ -9,9 +9,13 @@ In every unit of the Masai curriculum, we learn new frameworks and implement the
 Contributors:-
 
 Shaik Akbar Basha
+
 Vaibhav Manral
+
 Kajal Kumari
+
 Vijay Rajput
+
 Rishav Chauhan
 
 Shaik Akbar Basha - Handle the whole backend part of website built login and sign-up page and helped in merging the site.
